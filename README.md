@@ -1,5 +1,5 @@
 # portifolio
-Meu primeiro portfolio desenvolvido com os cursos de HTML e CSS da Alura
+Primeiro portfolio baseado no conhecimentosdesenvolvidos com os cursos de HTML e CSS da Alura
  Portfólio 
  Olá, Bem vindo ao meu projeto de portfólio.
 
